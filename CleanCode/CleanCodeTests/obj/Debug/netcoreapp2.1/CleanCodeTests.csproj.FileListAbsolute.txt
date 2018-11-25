@@ -1,0 +1,11 @@
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\bin\Debug\netcoreapp2.1\CleanCodeTests.deps.json
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\bin\Debug\netcoreapp2.1\CleanCodeTests.runtimeconfig.json
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\bin\Debug\netcoreapp2.1\CleanCodeTests.runtimeconfig.dev.json
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\bin\Debug\netcoreapp2.1\CleanCodeTests.dll
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\bin\Debug\netcoreapp2.1\CleanCodeTests.pdb
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\obj\Debug\netcoreapp2.1\CleanCodeTests.csprojAssemblyReference.cache
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\obj\Debug\netcoreapp2.1\CleanCodeTests.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\obj\Debug\netcoreapp2.1\CleanCodeTests.AssemblyInfoInputs.cache
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\obj\Debug\netcoreapp2.1\CleanCodeTests.AssemblyInfo.cs
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\obj\Debug\netcoreapp2.1\CleanCodeTests.dll
+D:\PROGRAMMING\NET\GITHUB\CleanCode_EnginDemirog\CleanCodeTests\obj\Debug\netcoreapp2.1\CleanCodeTests.pdb
